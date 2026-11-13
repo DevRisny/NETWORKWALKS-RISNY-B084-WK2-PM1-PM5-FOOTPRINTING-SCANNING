@@ -1,0 +1,11 @@
+$ nmap -sn 192.168.8.0/24          (Zenmap → Profile: Ping scan)
+Starting Nmap 7.993 ( https://nmap.org ) at 2026-11-13 11:47 +0530
+Nmap scan report for homerouter.cpe (192.168.8.1)
+Host is up (0.015s latency).
+MAC Address: 94:0E:6B:C0:1A:AF (Huawei Technologies)
+Nmap scan report for 192.168.8.101
+Host is up (0.11s latency).
+MAC Address: FE:82:03:B8:34:C9 (Unknown)
+Nmap scan report for 192.168.8.102
+Host is up.
+Nmap done: 256 IP addresses (3 hosts up) scanned in 5.68 seconds

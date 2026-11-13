@@ -1,0 +1,7 @@
+$ nslookup networkwalks.com
+Server:         169.254.169.254
+Address:        169.254.169.254#53
+
+Non-authoritative answer:
+Name:   networkwalks.com
+Address: 192.232.216.135
